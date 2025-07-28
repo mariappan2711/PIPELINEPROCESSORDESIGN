@@ -32,3 +32,6 @@ The testbench (tb_pipeline_processor) verifies this processor design by providin
 
 OUTPUT
 
+<img width="1365" height="638" alt="Image" src="https://github.com/user-attachments/assets/71fbfc46-5a21-48c9-a529-55a5af117bcd" />
+
+<img width="1328" height="627" alt="Image" src="https://github.com/user-attachments/assets/4eff9ce3-edac-4392-bc91-e97f8ea8f84b" />
